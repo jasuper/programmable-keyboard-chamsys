@@ -10,3 +10,4 @@ keyboard layout file
 
 and chamsys files theater settings,live settings, live template show and theater template show
 
+2018Live.set is a MagicQ settings file to get the macro's running with the programmed keyboard
